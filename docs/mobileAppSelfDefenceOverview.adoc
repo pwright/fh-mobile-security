@@ -1,5 +1,7 @@
 = Mobile App Self-Defence
 
+I presume these are all in app?
+
 |===
 |Do's |Dont's
 

@@ -1,5 +1,5 @@
 = Handling Sensitive Data Overview
-
+in app?
 |===
 | Do's | Dont's
 | *Sensitive data should stay in RAM for as little time as possible* _(Prevent data leak)_
